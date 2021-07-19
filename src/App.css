@@ -1,0 +1,258 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@500&display=swap');
+/* #1bbc9b #1bbc9b */
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Mulish', sans-serif;
+}
+
+.sweet-loading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+}
+#secone{
+    overflow: hidden;
+}
+.coloroverlay{
+    width: 100%;
+    height: 100vh;
+    background-color: black;
+    position: absolute;
+    opacity: 50%;
+    background-size: cover;
+    
+
+}
+
+
+#Navbar{
+    background-color: #1bbc9b !important;
+}
+.nav-link{
+    color: white !important;
+}
+.nav-link:hover{
+    color: white !important;
+}
+.menu_active{
+    font-weight: bold !important;
+    border-bottom: 1px solid white !important;
+}
+.hed{
+    margin-left: 50px;
+    margin-top: 10px;
+    color: black;
+    opacity: 70%;
+    
+}
+.sec{
+    background-attachment: fixed;
+}
+
+
+
+#vdo{
+      position: absolute;
+      width: 100%;
+      height: 100%;
+     
+}
+.heding{
+    font-size: 70px;
+    font-weight: bolder;
+    color: white;
+   
+}
+#serv{
+    background-color: #1bbc9b;
+    border-radius: 15px;
+}
+
+#p1{
+    border: 1px solid white;
+    border-radius: 10px;
+}
+
+/* Home section four css start */
+
+.sec4h1{
+    letter-spacing: 5px;
+    font-size: 55px;
+    color: #1bbc9b;
+}
+#secfourimg{
+    width: 100%;
+    height: 100%;
+}
+
+/* Home section four css end */
+
+/* Home section six css start  */
+
+#secsix{
+    
+    background-color: #1bbc9b;
+    margin-bottom: 50px;
+    border-radius: 8px;
+}
+
+/* Home section seven css start */
+#secsevenhover{
+    transition: 0.5s;
+    color: #1bbc9b;
+    
+}
+#secsevenhover:hover{
+    background-color: #1bbc9b;
+    cursor: pointer;
+    color: white;
+    transform: scale(1.1);
+    border-radius: 15px;
+    
+}
+.mainsecseven{
+    background-color: #e2e6eb;
+    border-radius: 20px;
+    margin-bottom: 80px;
+}
+.secsevenhediing{
+    color: #1bbc9b;
+    font-weight: lighter;
+    text-shadow: black;
+}
+
+
+/* Home section seven css end */
+
+/* Home section ait css start */
+
+.mainsecait{
+    background-color: #1bbc9b;
+}
+
+/* Home section ait css start */
+
+/* Home section nine start */
+
+#secnineimg{
+    position: relative;
+}
+#secninecontainer{
+    position: absolute;
+}
+.sec-nineh3{
+    color: #1bbc9b;
+}
+.sec-ninep{
+    color: black;
+    opacity: 75%;
+}
+#sec-nineimg{
+    width: 100%;
+    height: 85%;
+}
+/* Home section nine end */
+
+/* Home section ten css start */
+
+#sec-tencontainer{
+    background-color: #2d3436;
+    color: white;
+}
+/* Home section ten css end */
+
+/* how we work sectuion first css start */
+
+
+
+/* how we work sectuion first css start */
+
+.seconeh2{
+    color: #1bbc9b;
+}
+/* how we work sectuion first css start */
+
+/* Customer page css start */
+
+/* section 2 start */
+
+.client{
+    background-color: white;
+}
+
+#Card{
+    background-color: #1bbc9b;
+    color: white;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+/* section 2 end */
+
+/* section 3 start */
+
+#sec3{
+    background-color: #1bbc9b;
+}
+
+/* section 3 end */
+
+/* Customer page css end */
+
+/*blog page css start*/
+.img-top{
+    transform: scale(1);
+    transition: transform 0.5s ease;
+    width: 280px;
+    height: 200px;
+    margin-top: 16px;
+    border-radius: 5px;
+}
+
+
+.img-div{
+   
+    overflow: hidden;
+   
+}
+
+/*blog page css end*/
+/*Review page css start*/
+.Review-top-head{
+    height: 400PX;
+    background-color: #1bbc9b;
+}
+.gg{
+    margin: 0;
+    padding: 0;
+}
+/*Review page css end*/
+/*about us page css start*/
+.logo-about{
+    width:300px;
+    height: auto;
+}
+.gr{
+    background-color: red; /* For browsers that do not support gradients */
+    background-image: linear-gradient(#1bbc9b, white);
+    color: black;
+    opacity: 0.9;
+    border-bottom: 1px solid black;
+    
+}
+.fs{
+    font-family: Cursive;
+}
+
+#cubexo-logo:hover{
+    transform: scale(1.8);
+}
+
+#counters{
+    background-image: linear-gradient(#1bbc9b, white);
+}
